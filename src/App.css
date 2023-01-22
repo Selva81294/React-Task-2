@@ -1,0 +1,29 @@
+.App{
+  width: auto;
+  height: auto;
+  background-color:darkslategray;
+  
+}
+
+.header1{
+  background-color: black;
+  color: whitesmoke;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.btnAdd{
+  font-size: 12px;
+  margin-right: 5px;
+}
+.btnRemove{
+  font-size: 12px;
+}
+.cardStyle{
+width: auto;
+height: auto;
+display: grid;
+grid-template-columns: repeat(4,1fr);
+} 
+
